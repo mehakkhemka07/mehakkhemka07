@@ -28,6 +28,8 @@ I’m currently exploring:
 * **Bioinformatics:** GEOquery, limma, DESeq2
 * **Structural Biology:** PyMOL, Chimera, AutoDock Vina
 * **Data & Analytics:** Pandas, NumPy, Excel, Power BI
+* **Visualization:**Matplotlib, ggplot2
+
 
 ---
 

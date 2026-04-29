@@ -11,7 +11,6 @@
 My path into bioinformatics wasn’t planned—it emerged from a shift from wet-lab biology to data-driven discovery.
 
 Through research and industry experience, I’ve worked across both ends of the pipeline: from generating biological data (ELISA, microbiology, diagnostics) to analyzing it using computational approaches. This dual exposure shaped my core interest in solving a key problem:
-
 **the gap between large-scale biological data generation and meaningful, interpretable insight.**
 
 I’m currently exploring:

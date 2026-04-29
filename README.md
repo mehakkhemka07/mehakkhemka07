@@ -1,8 +1,8 @@
 # Hi, I'm Mehak 👋
 
-🎓 Bioinformatics Postgraduate | Biotechnology Graduate
-🧬 Interested in multi-omics, clinical data systems, and ML-driven diagnostics
-💡 Exploring how biological data can be translated into actionable clinical insights
+*🎓 Bioinformatics Postgraduate | Biotechnology Graduate
+*🧬 Interested in multi-omics, clinical data systems, and ML-driven diagnostics
+*💡 Exploring how biological data can be translated into actionable clinical insights
 
 ---
 

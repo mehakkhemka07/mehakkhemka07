@@ -28,7 +28,7 @@ I’m currently exploring:
 * **Bioinformatics:** GEOquery, limma, DESeq2
 * **Structural Biology:** PyMOL, Chimera, AutoDock Vina
 * **Data & Analytics:** Pandas, NumPy, Excel, Power BI
-* **Visualization:**Matplotlib, ggplot2
+* **Visualization:** Matplotlib, ggplot2
 
 
 ---
@@ -43,4 +43,5 @@ I’m currently exploring:
 ---
 
 ## 📫 Let’s Connect!
+* 🔗 [LinkedIn](https://www.linkedin.com/in/mehak-khemka-34035925b/)
 * 💡 Interested in collaborations in bioinformatics, multi-omics, and clinical data science

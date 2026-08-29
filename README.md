@@ -24,11 +24,11 @@ I’m currently exploring:
 
 ## 🛠️ Skills & Tools
 
-* **Languages:** Python, R
+* **Programming & Data:** Python, R, Pandas, NumPy, scikit-learn
 * **Bioinformatics:** GEOquery, limma, DESeq2
-* **Structural Biology:** PyMOL, Chimera, AutoDock Vina
-* **Data & Analytics:** Pandas, NumPy, Excel, Power BI
-* **Visualization:** Matplotlib, ggplot2
+* **Structural Biology:** PyMOL, Chimera, AutoDock Vina, PyRX, GROMACS
+* **Data & Visualization:** Excel, Power BI, VBA, Matplotlib, ggplot2
+* **Computational Environment:** Linux/WSL, Git, GitHub, Miniconda
 
 
 ---

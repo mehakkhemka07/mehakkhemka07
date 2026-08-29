@@ -16,7 +16,7 @@ Through research and industry experience, I’ve worked across both ends of the 
 I’m currently exploring:
 
 * Transcriptomics and differential gene expression analysis
-* Multi-modal biomarker discovery (ECG, MRI, RNA-seq)
+* Multi-modal biomarker discovery (Heart Failure, Ischemic stroke, RNA-seq)
 * Clinical data analysis and diagnostic system validation
 * Structural bioinformatics and protein modeling
 
